@@ -1,0 +1,499 @@
+loan_amnt,term,int_rate,emp_length,home_ownership,annual_inc,purpose,addr_state,dti,delinq_2yrs,revol_util,total_acc,bad_loan,longest_credit_length,verification_status,id
+5000,36 months,10.65,10,RENT,24000,credit card,Arizona,27.65,0,83.7,9,0,26,verified,LEFD0001
+2500,60 months,15.27,0,RENT,30000,car,Georgia,1,0,9.4,4,1,12,verified,LEFD0002
+2400,36 months,15.96,10,RENT,12252,small business,Illinois,8.72,0,98.5,10,0,10,not verified,LEFD0003
+10000,36 months,13.49,10,RENT,49200,other,California,20,0,21,37,0,15,verified,LEFD0004
+5000,36 months,7.9,3,RENT,36000,wedding,Arizona,11.2,0,28.3,12,0,7,verified,LEFD0005
+3000,36 months,18.64,9,RENT,48000,car,California,5.35,0,87.5,4,0,4,verified,LEFD0006
+5600,60 months,21.28,4,OWN,40000,small business,California,5.55,0,32.6,13,1,7,verified,LEFD0007
+5375,60 months,12.69,0,RENT,15000,other,Texas,18.08,0,36.5,3,1,7,verified,LEFD0008
+6500,60 months,14.65,5,OWN,72000,debt consolidation,Arizona,16.12,0,20.6,23,0,13,not verified,LEFD0009
+12000,36 months,12.69,10,OWN,75000,debt consolidation,California,10.78,0,67.1,34,0,22,verified,LEFD0010
+9000,36 months,13.49,0,RENT,30000,debt consolidation,Virginia,10.08,0,91.7,9,1,7,verified,LEFD0011
+3000,36 months,9.91,3,RENT,15000,credit card,Illinois,12.56,0,43.1,11,0,8,verified,LEFD0012
+10000,36 months,10.65,3,RENT,100000,other,California,7.06,0,55.5,29,1,20,verified,LEFD0013
+1000,36 months,16.29,0,RENT,28000,debt consolidation,Missouri,20.31,0,81.5,23,0,4,not verified,LEFD0014
+10000,36 months,15.27,4,RENT,42000,home improvement,California,18.6,0,70.2,28,0,13,not verified,LEFD0015
+3600,36 months,6.03,10,MORTGAGE,110000,major purchase,Connecticut,10.52,0,16,42,0,18,not verified,LEFD0016
+6000,36 months,11.71,1,MORTGAGE,84000,medical,Utah,18.44,2,37.73,14,0,8,verified,LEFD0017
+9200,36 months,6.03,6,RENT,77385.19,debt consolidation,California,9.86,0,23.1,28,0,10,not verified,LEFD0018
+21000,36 months,12.42,10,RENT,105000,debt consolidation,Florida,13.22,0,90.3,38,1,28,verified,LEFD0019
+10000,36 months,11.71,10,OWN,50000,credit card,Texas,11.18,0,82.4,21,0,26,verified,LEFD0020
+10000,36 months,11.71,5,RENT,50000,debt consolidation,California,16.01,0,91.8,17,0,8,not verified,LEFD0021
+6000,36 months,11.71,1,RENT,76000,major purchase,California,2.4,0,29.7,7,1,10,not verified,LEFD0022
+15000,36 months,9.91,2,MORTGAGE,92000,credit card,Illinois,29.44,0,93.9,31,0,9,verified,LEFD0023
+15000,36 months,14.27,9,RENT,60000,debt consolidation,New York,15.22,0,57.6,11,1,8,not verified,LEFD0024
+5000,60 months,16.77,2,RENT,50004,other,Pennsylvania,13.97,3,59.5,22,1,8,not verified,LEFD0025
+4000,36 months,11.71,10,MORTGAGE,106000,debt consolidation,Florida,5.63,1,37.7,44,0,27,not verified,LEFD0026
+8500,36 months,11.71,0,RENT,25000,credit card,Minnesota,12.19,0,59.1,12,0,5,verified,LEFD0027
+4375,36 months,7.51,7,MORTGAGE,17108,debt consolidation,New York,20.34,0,86.9,12,0,24,verified,LEFD0028
+31825,36 months,7.9,5,MORTGAGE,75000,debt consolidation,New Jersey,14.03,0,27.4,26,0,30,verified,LEFD0029
+5000,36 months,8.9,2,RENT,24044,debt consolidation,Oregon,11.93,0,29.3,16,0,6,verified,LEFD0030
+7000,36 months,15.96,7,RENT,34000,credit card,California,6.35,0,60.5,6,0,4,verified,LEFD0031
+12400,36 months,10.65,10,RENT,41000,credit card,Kentucky,11.8,0,57.2,12,0,6,not verified,LEFD0032
+10800,36 months,9.91,2,RENT,55596,moving,California,5.5,0,13.3,18,0,11,verified,LEFD0033
+15000,36 months,7.9,1,RENT,45000,debt consolidation,Ohio,8.48,0,50.4,27,0,7,verified,LEFD0034
+6000,36 months,12.42,1,RENT,36852,debt consolidation,Arizona,10.62,0,66.5,12,0,4,verified,LEFD0035
+9600,36 months,7.51,4,RENT,68004,other,South Carolina,6.63,0,18.1,11,0,8,verified,LEFD0036
+12000,36 months,7.9,10,RENT,62300,debt consolidation,New Jersey,16.7,0,21,25,0,17,not verified,LEFD0037
+3000,36 months,18.25,9,MORTGAGE,65000,other,Pennsylvania,17.39,0,98.1,22,0,13,not verified,LEFD0038
+4400,36 months,16.77,10,RENT,55000,debt consolidation,Rhode Island,20.01,0,99,11,0,7,not verified,LEFD0039
+6000,36 months,6.03,10,MORTGAGE,45600,debt consolidation,Louisiana,5.34,0,32.5,28,0,16,not verified,LEFD0040
+14000,36 months,9.91,6,RENT,80000,small business,Massachusetts,10,0,13.4,40,0,12,not verified,LEFD0041
+5000,36 months,8.9,10,MORTGAGE,100000,debt consolidation,Ohio,16.33,0,62.1,35,1,16,verified,LEFD0042
+10000,36 months,10.65,6,RENT,27000,other,New York,11.47,0,52.3,10,0,5,verified,LEFD0043
+10000,36 months,6.03,10,RENT,60000,credit card,Connecticut,12.74,0,19.5,18,0,19,not verified,LEFD0044
+11000,36 months,6.62,5,RENT,70000,debt consolidation,Connecticut,10.85,0,36.4,7,0,9,not verified,LEFD0045
+15000,36 months,9.91,8,MORTGAGE,80000,debt consolidation,Illinois,9.12,0,63.7,28,1,19,not verified,LEFD0046
+25600,36 months,9.91,9,RENT,110000,credit card,California,15.71,0,62,27,0,12,verified,LEFD0047
+7000,36 months,10.65,0,RENT,40000,debt consolidation,California,7.38,0,92.9,12,0,7,not verified,LEFD0048
+12000,36 months,15.96,4,RENT,50000,car,California,20.88,0,90.8,11,1,5,not verified,LEFD0049
+12000,36 months,9.91,1,RENT,46000,credit card,Texas,8.11,0,52.1,12,0,11,not verified,LEFD0050
+21000,60 months,19.91,7,RENT,50000,debt consolidation,Washington,21.58,0,97.6,14,1,13,verified,LEFD0051
+16000,60 months,19.91,7,RENT,81000,credit card,Massachusetts,20.52,0,75.1,21,0,13,verified,LEFD0052
+10000,36 months,12.42,0,OWN,39000,debt consolidation,Oregon,18.58,0,72.7,10,0,7,not verified,LEFD0053
+10000,36 months,10.65,2,RENT,51400,credit card,Texas,19.14,0,59.1,24,0,11,not verified,LEFD0054
+7100,36 months,16.77,1,MORTGAGE,33000,debt consolidation,Texas,24,0,91.2,8,0,4,verified,LEFD0055
+17675,60 months,14.65,0,RENT,50000,debt consolidation,Wisconsin,16.46,0,57.4,14,0,9,verified,LEFD0056
+8000,36 months,16.77,0,RENT,62000,debt consolidation,Virginia,21.64,0,66.9,20,0,5,not verified,LEFD0057
+10000,60 months,10.65,10,RENT,45996,debt consolidation,Ohio,21.73,0,30.1,15,1,14,verified,LEFD0058
+3500,36 months,10.65,7,MORTGAGE,55000,debt consolidation,Ohio,5.39,0,45.9,12,0,6,not verified,LEFD0059
+12500,60 months,17.27,5,RENT,30000,debt consolidation,Minnesota,13.16,0,70.8,28,1,16,verified,LEFD0060
+16425,36 months,14.27,4,RENT,44544,debt consolidation,California,22.71,0,83.4,18,0,9,verified,LEFD0061
+8200,60 months,21.28,4,RENT,75000,small business,California,12.48,0,73.9,11,1,11,verified,LEFD0062
+15000,36 months,14.65,2,OWN,61000,credit card,Florida,11.88,0,79.5,18,0,7,verified,LEFD0063
+20975,60 months,17.58,5,MORTGAGE,44000,credit card,Georgia,18.79,0,79.4,21,0,11,verified,LEFD0064
+6400,36 months,16.77,5,RENT,75000,debt consolidation,California,20.22,0,67.5,27,1,17,not verified,LEFD0065
+3000,36 months,13.49,1,RENT,33600,debt consolidation,Alabama,18.11,0,83.2,7,0,6,not verified,LEFD0066
+12000,36 months,16.77,3,RENT,50000,credit card,Massachusetts,20.57,0,97,19,0,6,not verified,LEFD0067
+14400,36 months,8.9,0,OWN,150000,debt consolidation,New York,14.85,0,55,38,0,17,verified,LEFD0068
+12000,36 months,14.65,10,RENT,90000,debt consolidation,New Jersey,16.56,0,78.5,36,0,27,not verified,LEFD0069
+11000,36 months,13.49,10,MORTGAGE,48000,debt consolidation,Texas,21.82,0,65,29,0,12,verified,LEFD0070
+7250,60 months,21.67,0,RENT,75000,debt consolidation,California,24.82,0,91.2,19,0,11,verified,LEFD0071
+15000,36 months,7.9,1,MORTGAGE,52000,small business,Texas,9.65,0,6.7,29,0,8,not verified,LEFD0072
+18000,60 months,19.91,10,MORTGAGE,65000,debt consolidation,Florida,6.81,0,77.8,40,0,22,not verified,LEFD0073
+35000,60 months,17.27,3,MORTGAGE,150000,home improvement,New York,7.51,0,53.3,31,0,8,verified,LEFD0074
+10000,36 months,14.27,2,RENT,68000,credit card,Pennsylvania,15.39,0,81.3,15,0,5,verified,LEFD0075
+11800,36 months,12.69,6,RENT,42000,credit card,New York,9.86,0,74.8,13,0,15,verified,LEFD0076
+4500,36 months,6.03,4,RENT,53000,major purchase,California,4.44,0,13.9,17,0,11,verified,LEFD0077
+7000,36 months,12.69,10,RENT,35000,credit card,California,11.35,0,82.3,26,0,11,verified,LEFD0078
+9200,36 months,12.42,2,RENT,60000,debt consolidation,California,19.96,0,78.7,19,0,9,verified,LEFD0079
+4500,60 months,10.65,0,MORTGAGE,42000,car,Texas,5.4,0,78.3,9,0,28,verified,LEFD0080
+12000,36 months,16.29,9,RENT,88365,debt consolidation,Arizona,16.85,0,96.4,15,0,15,verified,LEFD0081
+12000,36 months,13.49,4,RENT,72000,debt consolidation,California,21.33,0,27.6,19,0,8,verified,LEFD0082
+12000,36 months,10.65,0,RENT,62000,credit card,Texas,23.94,0,78.4,51,0,9,verified,LEFD0083
+7000,36 months,10.65,3,MORTGAGE,43680,credit card,Minnesota,5.38,0,78.1,11,0,11,not verified,LEFD0084
+8200,60 months,19.42,3,RENT,120000,debt consolidation,New York,2.8,0,88.4,6,0,4,verified,LEFD0085
+10500,36 months,12.69,10,RENT,66000,medical,California,20.73,1,51.2,26,0,13,verified,LEFD0086
+7000,36 months,11.71,4,OWN,39120,debt consolidation,Florida,21.01,0,52.4,26,0,15,not verified,LEFD0087
+20000,60 months,11.71,4,MORTGAGE,47800,debt consolidation,Virginia,10.04,0,46.3,27,0,10,verified,LEFD0088
+17500,60 months,17.27,7,MORTGAGE,45000,credit card,Washington,21.31,0,86.1,26,1,9,not verified,LEFD0089
+3500,36 months,6.03,10,MORTGAGE,83000,car,Illinois,2.31,0,13.4,28,0,25,verified,LEFD0090
+6200,36 months,9.91,2,RENT,25000,debt consolidation,California,20.64,0,47.7,12,1,13,not verified,LEFD0091
+6000,36 months,8.9,8,OWN,28800,debt consolidation,New Jersey,13.17,0,36.8,13,0,6,not verified,LEFD0092
+7200,36 months,9.91,6,RENT,135000,credit card,New York,6.12,0,79.6,18,0,14,not verified,LEFD0093
+9500,36 months,8.9,7,MORTGAGE,50000,credit card,Texas,8.18,0,60.5,13,0,6,not verified,LEFD0094
+18825,60 months,16.77,10,RENT,38000,debt consolidation,Texas,23.18,0,79.7,7,1,7,verified,LEFD0095
+24000,36 months,10.65,10,RENT,45000,debt consolidation,California,14.8,0,55.2,9,0,21,verified,LEFD0096
+6000,36 months,13.49,10,RENT,80000,debt consolidation,California,11.58,0,83.8,16,0,9,not verified,LEFD0097
+6000,36 months,13.49,5,RENT,50000,debt consolidation,Arizona,15.38,0,91.5,7,0,7,not verified,LEFD0098
+2100,36 months,12.42,10,MORTGAGE,30000,vacation,Louisiana,19.72,0,82.9,26,0,16,not verified,LEFD0099
+5500,36 months,6.62,8,MORTGAGE,110000,small business,Connecticut,9.69,0,21.9,26,0,17,verified,LEFD0100
+11000,36 months,6.62,8,OWN,45608,debt consolidation,Louisiana,20.5,0,58.7,11,0,19,verified,LEFD0101
+26800,60 months,20.89,3,MORTGAGE,120000,debt consolidation,Florida,12.15,0,48,18,0,5,verified,LEFD0102
+8000,36 months,12.69,5,MORTGAGE,35000,debt consolidation,Illinois,10.05,0,97.7,18,0,9,not verified,LEFD0103
+10000,36 months,18.25,1,RENT,75000,credit card,California,24.14,0,96.3,26,1,14,verified,LEFD0104
+8000,36 months,11.71,9,MORTGAGE,35000,credit card,Nevada,9.7,0,46.5,8,0,5,verified,LEFD0105
+10000,36 months,8.9,6,RENT,24000,debt consolidation,California,7,0,49.5,21,0,11,verified,LEFD0106
+12000,36 months,11.71,2,MORTGAGE,126000,debt consolidation,Ohio,13.32,0,54.1,38,0,21,not verified,LEFD0107
+10000,36 months,7.9,1,RENT,43000,debt consolidation,California,25.26,0,37.2,16,0,8,not verified,LEFD0108
+12000,36 months,9.91,1,RENT,50000,debt consolidation,California,16.44,0,29.3,25,0,11,not verified,LEFD0109
+19750,36 months,10.65,4,RENT,45000,debt consolidation,Oregon,22.8,0,54.2,28,1,11,verified,LEFD0110
+10000,36 months,9.91,3,RENT,31200,debt consolidation,New York,14.81,0,27,19,0,6,verified,LEFD0111
+13650,36 months,12.42,4,RENT,66000,debt consolidation,Nevada,24.09,0,56.5,34,0,10,verified,LEFD0112
+28000,60 months,19.91,10,RENT,52000,debt consolidation,Texas,20.7,0,87.6,16,1,23,verified,LEFD0113
+18000,36 months,7.9,10,RENT,56964,debt consolidation,California,27.55,0,76.6,20,0,12,verified,LEFD0114
+2500,36 months,14.27,7,RENT,49500,debt consolidation,Florida,10.33,0,37.7,20,0,7,verified,LEFD0115
+21000,60 months,20.3,10,RENT,70000,credit card,Colorado,23.21,0,70.7,25,0,20,verified,LEFD0116
+35000,36 months,8.9,6,MORTGAGE,125000,debt consolidation,California,22.71,0,34.8,32,0,11,verified,LEFD0117
+10000,36 months,7.51,3,RENT,33000,credit card,New Jersey,9.75,0,0.6,19,0,7,not verified,LEFD0118
+7000,36 months,12.69,0,RENT,30000,credit card,Virginia,15.8,0,47.6,11,0,7,verified,LEFD0119
+24000,36 months,15.96,8,MORTGAGE,90000,home improvement,California,9.17,0,71.2,23,1,16,verified,LEFD0120
+10625,36 months,7.51,5,MORTGAGE,23000,medical,Oregon,18.89,0,43.4,21,0,6,not verified,LEFD0121
+5000,36 months,14.65,2,RENT,24000,debt consolidation,Pennsylvania,18.3,0,33.3,9,0,6,verified,LEFD0122
+8850,36 months,6.62,10,RENT,62000,credit card,Maryland,17.71,0,35.9,19,0,13,verified,LEFD0123
+6375,36 months,7.51,4,RENT,44000,debt consolidation,Georgia,4.8,0,58,11,0,11,verified,LEFD0124
+6000,36 months,11.71,1,RENT,90000,credit card,New Jersey,2.97,1,56.6,23,0,4,not verified,LEFD0125
+11100,36 months,6.62,10,RENT,41000,credit card,Pennsylvania,29.85,0,62.3,18,1,20,verified,LEFD0126
+10000,60 months,12.69,2,MORTGAGE,56000,debt consolidation,California,10.82,0,31.2,18,0,11,verified,LEFD0127
+6200,36 months,6.03,5,MORTGAGE,26500,small business,West Virginia,18.2,0,16,18,0,11,not verified,LEFD0128
+15000,36 months,18.64,1,RENT,54000,debt consolidation,Georgia,19.69,0,90.3,12,0,5,not verified,LEFD0129
+4200,36 months,11.71,2,RENT,53000,other,Maryland,16.91,0,79.7,22,0,9,not verified,LEFD0130
+14000,36 months,14.27,4,RENT,52800,debt consolidation,California,7.36,0,70.8,14,0,6,not verified,LEFD0131
+8875,36 months,7.51,1,MORTGAGE,38000,debt consolidation,Georgia,23.53,0,62.1,27,0,18,not verified,LEFD0132
+13500,36 months,9.91,7,RENT,38000,debt consolidation,California,12.38,0,67.3,7,0,14,verified,LEFD0133
+12000,36 months,9.91,2,RENT,42000,debt consolidation,Minnesota,7.83,0,65.4,16,1,5,not verified,LEFD0134
+16000,60 months,19.91,4,RENT,55000,debt consolidation,Washington,15.8,0,72.4,19,0,7,verified,LEFD0135
+21600,60 months,19.42,8,MORTGAGE,60000,debt consolidation,Georgia,16.74,1,78.1,21,0,21,verified,LEFD0136
+6000,36 months,10.65,6,MORTGAGE,87000,home improvement,New Jersey,12.86,2,40.5,22,0,11,not verified,LEFD0137
+20000,60 months,13.49,1,RENT,82000,credit card,Ohio,17.68,0,61.4,23,0,16,not verified,LEFD0138
+10000,36 months,11.71,8,RENT,60000,debt consolidation,California,22.08,0,29.3,26,1,10,not verified,LEFD0139
+12000,36 months,16.29,5,MORTGAGE,80000,credit card,Georgia,18.18,0,97.2,11,0,9,verified,LEFD0140
+13475,60 months,13.49,10,RENT,25000,credit card,California,21.89,0,65.8,14,1,10,verified,LEFD0141
+7200,36 months,12.42,5,RENT,48000,major purchase,Illinois,17.43,0,80.2,10,0,5,not verified,LEFD0142
+5600,36 months,14.65,1,MORTGAGE,85000,debt consolidation,Arizona,12.24,1,90.8,31,1,12,not verified,LEFD0143
+12000,36 months,14.27,0,RENT,57000,debt consolidation,California,10.86,0,81.5,11,0,13,verified,LEFD0144
+8500,36 months,6.03,2,RENT,25000,credit card,Maryland,1.73,0,28,18,0,6,not verified,LEFD0145
+8000,36 months,9.91,2,RENT,34000,credit card,Pennsylvania,18.28,0,78.5,7,0,6,verified,LEFD0146
+8000,36 months,12.42,10,RENT,40000,credit card,Oregon,15,0,88.2,11,0,7,not verified,LEFD0147
+15000,36 months,17.27,2,MORTGAGE,44400,house,Florida,3.59,1,91.6,16,0,28,verified,LEFD0148
+10000,36 months,9.91,2,OWN,30000,debt consolidation,Vermont,11.24,0,66.8,30,0,16,not verified,LEFD0149
+10000,36 months,6.62,5,MORTGAGE,70000,credit card,New York,16.78,0,69,18,0,17,not verified,LEFD0150
+8000,36 months,14.65,3,RENT,28000,car,California,12.6,0,54.3,11,0,5,not verified,LEFD0151
+22000,36 months,9.91,2,MORTGAGE,50000,debt consolidation,Michigan,13.22,0,49.8,32,0,13,verified,LEFD0152
+6000,36 months,14.27,10,MORTGAGE,94800,car,Texas,24.53,0,95.9,30,0,25,verified,LEFD0153
+2500,36 months,7.51,,OWN,12000,debt consolidation,California,16.3,0,42.2,20,1,17,verified,LEFD0154
+13500,36 months,9.91,2,MORTGAGE,36000,credit card,DC,22.93,0,67.2,15,0,31,verified,LEFD0155
+25000,36 months,12.42,2,RENT,225000,debt consolidation,New Jersey,8.32,1,34.6,23,0,7,verified,LEFD0156
+10000,36 months,13.49,2,RENT,45900,small business,California,24.97,0,48.3,12,0,7,verified,LEFD0157
+2500,36 months,13.49,4,RENT,27200,debt consolidation,Washington,6.44,0,68.1,6,0,3,not verified,LEFD0158
+7325,36 months,12.69,1,RENT,42000,debt consolidation,Florida,22.57,0,65,29,0,15,not verified,LEFD0159
+4000,36 months,12.42,5,RENT,135000,credit card,New York,12.12,0,85.7,21,0,7,verified,LEFD0160
+10000,36 months,13.49,5,RENT,65000,small business,California,6.92,1,69.5,17,1,12,not verified,LEFD0161
+7750,36 months,17.27,0,RENT,24000,debt consolidation,Illinois,16.1,0,67.1,7,1,7,not verified,LEFD0162
+20000,60 months,20.89,6,RENT,70000,debt consolidation,Florida,16.63,0,79.9,24,1,9,verified,LEFD0163
+9600,36 months,12.42,10,RENT,65000,debt consolidation,New York,11.65,0,70.9,11,0,9,verified,LEFD0164
+21000,60 months,11.71,3,RENT,60000,debt consolidation,California,6.62,0,79.9,11,1,21,not verified,LEFD0165
+14000,36 months,10.65,3,RENT,30000,credit card,Connecticut,15.52,0,65.6,14,0,5,verified,LEFD0166
+13350,36 months,12.42,10,RENT,43000,debt consolidation,California,20.57,0,95.3,15,0,12,not verified,LEFD0167
+15000,36 months,16.77,10,RENT,42000,debt consolidation,Wisconsin,19.63,0,74.9,38,1,10,verified,LEFD0168
+15000,36 months,17.27,8,RENT,75000,debt consolidation,California,16.03,0,75.9,17,1,20,verified,LEFD0169
+35000,36 months,10.65,2,MORTGAGE,168000,debt consolidation,Texas,3.17,1,1.4,22,0,9,verified,LEFD0170
+9000,36 months,10.65,9,MORTGAGE,74000,credit card,South Dakota,8.89,0,71.7,10,0,13,verified,LEFD0171
+16000,36 months,12.69,1,RENT,58500,debt consolidation,Illinois,20.64,0,89.3,10,1,17,verified,LEFD0172
+13500,36 months,12.69,5,RENT,71000,debt consolidation,Virginia,11.97,0,77.7,11,0,13,verified,LEFD0173
+24000,36 months,12.69,10,RENT,75000,debt consolidation,Washington,11.6,0,84.6,33,0,15,verified,LEFD0174
+12000,36 months,10.65,5,RENT,60000,credit card,California,10.84,0,48.8,18,0,9,not verified,LEFD0175
+28000,60 months,17.58,5,MORTGAGE,140000,home improvement,North Carolina,12.07,0,13.4,24,0,5,verified,LEFD0176
+14000,36 months,6.62,10,RENT,66000,debt consolidation,Virginia,11.15,0,35.4,46,0,12,verified,LEFD0177
+12000,36 months,14.27,8,MORTGAGE,70000,other,New York,8.4,0,86.2,12,1,6,not verified,LEFD0178
+25000,36 months,11.71,10,MORTGAGE,100000,debt consolidation,Rhode Island,6.88,0,89.1,18,0,25,verified,LEFD0179
+9000,36 months,12.69,5,RENT,50000,debt consolidation,New York,17.81,0,55.4,21,0,10,verified,LEFD0180
+13250,36 months,10.65,4,RENT,35000,debt consolidation,Ohio,24.93,0,58.7,25,0,9,not verified,LEFD0181
+20000,36 months,13.49,6,RENT,75000,debt consolidation,California,22.38,0,90.8,17,0,13,verified,LEFD0182
+3000,36 months,14.65,5,RENT,71000,medical,Wisconsin,21.84,0,88.7,14,0,8,verified,LEFD0183
+7350,36 months,10.65,10,MORTGAGE,48000,debt consolidation,Arkansas,11.93,0,77.5,5,0,5,not verified,LEFD0184
+11500,36 months,15.27,5,RENT,36000,debt consolidation,Florida,21.1,0,76.7,14,0,13,not verified,LEFD0185
+13650,36 months,12.42,10,MORTGAGE,86000,debt consolidation,California,12.29,0,73.4,34,1,17,not verified,LEFD0186
+10500,36 months,16.29,3,RENT,30000,debt consolidation,California,15,0,55.5,8,1,4,verified,LEFD0187
+12000,36 months,9.91,2,RENT,60000,debt consolidation,California,15.5,0,85.7,21,0,8,not verified,LEFD0188
+6000,36 months,8.9,3,RENT,34000,credit card,Ohio,14.51,0,64.8,16,0,7,not verified,LEFD0189
+11500,36 months,15.27,10,MORTGAGE,44200,credit card,California,21.69,0,90,11,0,7,verified,LEFD0190
+7000,36 months,12.42,7,MORTGAGE,82000,debt consolidation,Maryland,12,0,71.6,31,0,9,not verified,LEFD0191
+2000,36 months,15.27,2,RENT,41000,moving,Texas,17.74,0,96.4,11,0,7,verified,LEFD0192
+11625,36 months,13.49,0,MORTGAGE,36000,credit card,Kansas,19.33,0,84.7,31,0,18,verified,LEFD0193
+15075,36 months,14.27,10,RENT,35000,debt consolidation,Texas,20.16,0,89.6,14,1,11,verified,LEFD0194
+5300,36 months,15.27,1,RENT,30000,credit card,Connecticut,24.88,0,82.7,13,0,6,verified,LEFD0195
+8200,36 months,6.62,0,RENT,40000,home improvement,Pennsylvania,11.1,0,25.5,11,0,11,verified,LEFD0196
+12000,36 months,12.42,9,MORTGAGE,105000,credit card,Texas,13.98,0,75,25,0,20,not verified,LEFD0197
+8650,36 months,14.27,4,MORTGAGE,45000,credit card,Florida,7.6,0,58.9,23,0,6,verified,LEFD0198
+12000,36 months,12.42,2,RENT,83000,debt consolidation,California,11.81,0,51.1,61,0,10,not verified,LEFD0199
+9500,36 months,12.69,0,MORTGAGE,52500,moving,California,23.54,0,75.3,42,1,12,verified,LEFD0200
+7400,36 months,13.49,0,OWN,25000,debt consolidation,Arizona,8.45,0,92.8,13,0,21,verified,LEFD0201
+14400,36 months,13.49,10,MORTGAGE,60000,debt consolidation,Florida,16.92,0,65,26,0,15,not verified,LEFD0202
+24250,60 months,23.91,7,MORTGAGE,120000,debt consolidation,Arizona,12.96,0,99,20,0,11,verified,LEFD0203
+7200,36 months,7.9,3,RENT,68000,debt consolidation,Georgia,7.98,0,82.9,14,1,9,verified,LEFD0204
+26000,60 months,16.77,10,MORTGAGE,53000,home improvement,North Carolina,11.77,0,72.7,14,1,13,verified,LEFD0205
+7000,60 months,11.71,6,MORTGAGE,69600,credit card,Washington,26.22,0,90.9,23,1,32,verified,LEFD0206
+4000,36 months,7.51,0,RENT,65000,major purchase,California,18.17,0,50.7,24,0,9,verified,LEFD0207
+1500,36 months,17.27,10,MORTGAGE,144000,debt consolidation,California,8.23,1,97.8,14,0,15,verified,LEFD0208
+19600,36 months,12.42,2,RENT,75000,credit card,New York,11.62,0,50.1,12,0,5,verified,LEFD0209
+2500,36 months,11.71,7,MORTGAGE,29000,debt consolidation,Arizona,18.7,0,66.7,13,0,6,verified,LEFD0210
+10000,36 months,12.69,2,RENT,70000,credit card,California,2.69,0,70.2,6,1,11,not verified,LEFD0211
+10000,36 months,6.62,5,RENT,45000,credit card,Ohio,26.85,0,70.4,40,0,30,not verified,LEFD0212
+4225,36 months,12.42,5,MORTGAGE,55200,other,Washington,17.61,0,73.7,12,0,9,not verified,LEFD0213
+3500,36 months,7.9,7,MORTGAGE,61440,vacation,California,6.46,1,55.5,19,0,14,not verified,LEFD0214
+12000,36 months,6.62,10,MORTGAGE,56000,debt consolidation,Florida,13.65,0,80.3,21,0,11,not verified,LEFD0215
+16500,36 months,8.9,0,RENT,47000,debt consolidation,Illinois,9.06,0,38.8,24,0,10,verified,LEFD0216
+22000,60 months,21.67,0,RENT,55000,debt consolidation,Washington,15.62,0,79.4,27,0,10,verified,LEFD0217
+12000,36 months,14.65,1,RENT,71000,credit card,Kansas,14.87,0,71,38,0,12,verified,LEFD0218
+10800,36 months,12.42,8,RENT,135000,credit card,California,12.12,0,74.5,23,0,9,verified,LEFD0219
+14000,36 months,12.42,10,MORTGAGE,63000,credit card,Georgia,7.35,0,97.8,19,0,18,not verified,LEFD0220
+6000,36 months,13.49,5,MORTGAGE,50000,debt consolidation,New Mexico,15.58,0,83.6,14,0,8,not verified,LEFD0221
+12000,36 months,9.91,5,RENT,80000,debt consolidation,Texas,14.83,0,67.7,21,0,11,not verified,LEFD0222
+10000,36 months,12.42,4,RENT,45000,debt consolidation,Washington,10.45,0,51.6,19,0,6,not verified,LEFD0223
+8000,36 months,7.9,2,RENT,78000,vacation,New York,6.09,0,55.9,31,0,5,not verified,LEFD0224
+14125,36 months,9.91,1,RENT,33000,debt consolidation,Oregon,23.13,0,66,20,0,14,verified,LEFD0225
+14000,36 months,12.69,5,RENT,62800,debt consolidation,Washington,19.24,0,64.5,18,0,17,not verified,LEFD0226
+13200,60 months,17.27,3,RENT,26400,small business,Texas,9.64,0,50.1,12,0,5,verified,LEFD0227
+4000,36 months,19.03,10,MORTGAGE,80000,vacation,North Carolina,20.59,1,22.6,56,0,14,not verified,LEFD0228
+4000,36 months,12.69,2,RENT,25000,debt consolidation,Colorado,6.86,0,79.7,13,1,6,not verified,LEFD0229
+10500,36 months,6.03,10,MORTGAGE,65000,debt consolidation,Texas,10.36,0,18.7,16,0,30,verified,LEFD0230
+5500,36 months,7.9,10,OWN,59000,car,Pennsylvania,6.65,0,43.3,23,0,20,verified,LEFD0231
+7350,36 months,11.71,1,RENT,33000,debt consolidation,California,22.51,0,77.9,23,0,13,verified,LEFD0232
+10000,36 months,12.42,10,RENT,39000,credit card,Missouri,18.31,0,90.6,19,1,13,verified,LEFD0233
+12000,36 months,7.51,10,RENT,42000,debt consolidation,Ohio,10.74,0,43,17,0,17,not verified,LEFD0234
+8000,60 months,11.71,3,OWN,31000,other,Oregon,16.22,0,34.4,29,0,5,verified,LEFD0235
+4500,36 months,8.9,10,MORTGAGE,50700,other,North Carolina,23.43,0,24.4,20,0,15,verified,LEFD0236
+18000,36 months,12.42,1,OWN,75000,credit card,Louisiana,12.51,0,66.1,27,0,20,verified,LEFD0237
+12000,36 months,13.49,6,RENT,40000,debt consolidation,Georgia,15.72,0,80.5,13,0,12,not verified,LEFD0238
+10000,36 months,13.49,10,MORTGAGE,50000,credit card,California,5.88,1,47.6,15,0,13,not verified,LEFD0239
+6000,36 months,7.9,7,MORTGAGE,80000,other,Wisconsin,8.87,0,30.3,29,0,18,not verified,LEFD0240
+12000,36 months,12.69,4,RENT,40000,debt consolidation,Maryland,22.2,0,55.5,23,0,13,not verified,LEFD0241
+12000,36 months,8.9,7,RENT,80000,other,California,9.13,0,83.5,16,1,8,not verified,LEFD0242
+7000,36 months,11.71,2,RENT,75000,debt consolidation,California,15.57,0,94.1,17,0,10,verified,LEFD0243
+35000,60 months,18.64,8,MORTGAGE,85000,debt consolidation,Illinois,12,0,53,50,0,16,verified,LEFD0244
+1400,36 months,7.9,1,RENT,28800,other,Florida,10,0,9.9,7,0,8,not verified,LEFD0245
+16000,60 months,13.49,10,RENT,35000,small business,North Carolina,16.22,0,58.5,14,1,9,verified,LEFD0246
+3200,36 months,9.91,9,RENT,61200,debt consolidation,California,2.16,0,33.3,17,0,12,not verified,LEFD0247
+8000,36 months,7.9,1,RENT,40000,medical,California,13.35,0,34.4,11,0,15,not verified,LEFD0248
+11875,60 months,12.69,0,RENT,25920,debt consolidation,California,23.75,0,94.1,28,1,10,verified,LEFD0249
+5000,36 months,6.03,9,MORTGAGE,54000,home improvement,New Jersey,3.82,0,4,14,0,13,not verified,LEFD0250
+1800,36 months,6.62,10,RENT,18000,small business,Michigan,23.8,0,39.8,12,0,10,not verified,LEFD0251
+35000,36 months,8.9,5,RENT,85000,debt consolidation,Illinois,17.73,0,61.5,13,0,10,verified,LEFD0252
+18000,36 months,8.9,5,RENT,78000,credit card,New York,7,0,66.3,10,0,13,verified,LEFD0253
+14000,36 months,7.9,10,OWN,45600,debt consolidation,West Virginia,19.74,0,63.9,10,1,19,not verified,LEFD0254
+5000,36 months,12.42,2,RENT,70000,debt consolidation,Texas,20.06,0,54.2,26,0,7,not verified,LEFD0255
+8000,36 months,15.96,4,RENT,70000,credit card,Illinois,14.04,0,91.9,30,0,11,verified,LEFD0256
+10000,36 months,6.03,9,MORTGAGE,80000,debt consolidation,Massachusetts,12.99,0,45.2,17,0,24,not verified,LEFD0257
+10000,36 months,7.51,5,RENT,50000,debt consolidation,New Jersey,4.63,0,25.7,25,0,5,verified,LEFD0258
+12000,36 months,12.42,10,MORTGAGE,35000,debt consolidation,Colorado,18.51,0,75.7,13,0,13,verified,LEFD0259
+23200,36 months,7.9,3,MORTGAGE,65000,debt consolidation,Michigan,27.99,0,47,34,0,10,verified,LEFD0260
+4800,36 months,15.27,10,MORTGAGE,75000,debt consolidation,West Virginia,9.3,0,73.7,18,0,8,not verified,LEFD0261
+7300,36 months,11.71,6,RENT,35000,debt consolidation,Virginia,16.42,0,44.6,17,0,9,not verified,LEFD0262
+10400,36 months,9.91,6,RENT,40000,debt consolidation,Florida,11.67,0,80.6,19,0,12,verified,LEFD0263
+6600,36 months,9.91,1,MORTGAGE,100000,house,Florida,15.53,0,27.8,30,0,9,not verified,LEFD0264
+12000,36 months,8.9,7,OWN,40000,debt consolidation,New Jersey,9.45,0,37.4,20,0,9,not verified,LEFD0265
+13250,36 months,17.27,10,RENT,52000,debt consolidation,New York,23.7,0,91.5,18,0,13,verified,LEFD0266
+12000,36 months,11.71,3,RENT,92500,debt consolidation,California,15.97,0,56.2,21,0,5,verified,LEFD0267
+25000,36 months,9.91,9,RENT,61000,debt consolidation,California,10.35,0,49.4,10,0,15,verified,LEFD0268
+6000,36 months,10.65,10,RENT,36000,other,Hawaii,14.43,0,48.5,9,0,14,not verified,LEFD0269
+12000,36 months,7.51,10,MORTGAGE,68000,credit card,California,7.08,0,55.6,34,0,20,not verified,LEFD0270
+14400,36 months,11.71,1,RENT,80000,credit card,California,16.35,0,48.4,16,0,16,not verified,LEFD0271
+10000,36 months,12.42,10,RENT,43000,credit card,New York,11.58,0,65.5,33,0,11,not verified,LEFD0272
+8000,36 months,11.71,1,RENT,150000,credit card,New York,2.48,1,56.2,8,0,15,not verified,LEFD0273
+8000,36 months,16.29,5,RENT,50000,credit card,Nevada,13.22,0,72.9,12,1,6,not verified,LEFD0274
+30000,60 months,12.42,3,RENT,70000,small business,Texas,0.94,0,3.2,14,1,5,verified,LEFD0275
+18000,60 months,16.77,6,OWN,40000,home improvement,California,18.42,0,73.4,20,1,11,not verified,LEFD0276
+13250,36 months,11.71,2,OWN,35000,credit card,Pennsylvania,22.35,0,67.2,21,0,7,not verified,LEFD0277
+14000,36 months,14.27,6,RENT,80000,debt consolidation,California,16.21,0,96.2,11,0,9,not verified,LEFD0278
+20000,60 months,20.3,10,OWN,59000,debt consolidation,Alaska,20.91,0,83.1,32,1,11,verified,LEFD0279
+10000,36 months,16.29,10,RENT,40000,credit card,New York,24.39,0,96.4,18,0,10,verified,LEFD0280
+4000,36 months,6.03,1,RENT,55000,debt consolidation,Oregon,7.05,0,43.8,18,0,10,not verified,LEFD0281
+13000,36 months,9.91,6,RENT,110000,debt consolidation,California,8.38,0,81.3,14,0,10,not verified,LEFD0282
+28000,36 months,12.69,5,RENT,100000,credit card,Wisconsin,12.35,0,67.5,15,0,11,verified,LEFD0283
+10000,36 months,13.49,3,RENT,62000,debt consolidation,Massachusetts,11.52,0,79.1,20,0,11,not verified,LEFD0284
+20000,36 months,7.9,0,RENT,45000,debt consolidation,Georgia,9.25,0,74.9,10,0,30,verified,LEFD0285
+18000,36 months,9.91,5,RENT,110000,debt consolidation,Florida,10,0,62.5,22,0,11,verified,LEFD0286
+9000,60 months,19.91,3,RENT,60000,credit card,California,22.56,0,91.1,30,1,14,verified,LEFD0287
+10000,36 months,11.71,3,RENT,33000,other,New York,8.69,0,88.3,9,0,11,not verified,LEFD0288
+4200,36 months,6.03,3,RENT,61000,credit card,New Jersey,8.92,0,12.9,16,0,8,not verified,LEFD0289
+20000,60 months,15.27,10,OWN,78216,debt consolidation,California,10.79,0,80.3,21,1,16,verified,LEFD0290
+24000,36 months,16.29,2,RENT,50964,debt consolidation,Georgia,8.83,1,69.4,13,0,8,verified,LEFD0291
+4475,36 months,15.27,3,RENT,43680,credit card,Colorado,18.79,0,33.5,29,0,11,not verified,LEFD0292
+12000,36 months,12.42,5,RENT,50700,credit card,New Jersey,22.49,0,80.8,18,0,8,verified,LEFD0293
+5000,36 months,12.42,2,RENT,30000,debt consolidation,South Carolina,23.84,0,89.7,40,1,10,verified,LEFD0294
+3000,36 months,6.03,5,RENT,50000,other,Virginia,5.5,0,29.4,15,0,8,not verified,LEFD0295
+12000,36 months,9.91,10,RENT,55000,debt consolidation,Rhode Island,13,0,75.5,17,1,13,not verified,LEFD0296
+20000,36 months,15.27,10,MORTGAGE,50000,other,Massachusetts,4.34,0,52.7,12,0,9,verified,LEFD0297
+10000,36 months,13.49,3,RENT,84000,debt consolidation,California,13.87,0,68.7,10,0,4,verified,LEFD0298
+15000,36 months,12.42,6,OWN,155000,debt consolidation,Georgia,17.85,0,74.9,41,0,21,verified,LEFD0299
+12000,36 months,7.9,0,MORTGAGE,62000,debt consolidation,Maryland,8.71,0,57.7,15,0,9,verified,LEFD0300
+6300,36 months,11.71,2,RENT,30000,credit card,New York,7.2,0,84.3,11,0,20,not verified,LEFD0301
+35000,60 months,17.27,8,MORTGAGE,208000,debt consolidation,Maryland,7.94,0,23.5,79,0,18,verified,LEFD0302
+8250,60 months,15.96,2,MORTGAGE,35004,home improvement,New York,15.6,2,7.7,21,0,8,verified,LEFD0303
+10000,36 months,11.71,5,RENT,32000,credit card,Florida,21.83,0,59.6,23,1,10,not verified,LEFD0304
+24000,36 months,8.9,10,MORTGAGE,116400,car,Florida,3.94,0,8.1,31,1,19,verified,LEFD0305
+14400,36 months,12.69,9,MORTGAGE,40000,debt consolidation,Illinois,20.16,0,79.5,13,0,8,not verified,LEFD0306
+6000,36 months,14.65,7,RENT,34000,credit card,Maryland,21.39,0,88.5,13,0,9,not verified,LEFD0307
+22000,36 months,15.96,5,MORTGAGE,73000,debt consolidation,Illinois,22.47,0,85.1,32,0,16,verified,LEFD0308
+12000,36 months,11.71,10,RENT,57200,debt consolidation,Massachusetts,16.36,0,68.5,17,1,11,verified,LEFD0309
+16000,36 months,16.77,0,MORTGAGE,114000,debt consolidation,Missouri,17.2,0,64.2,34,0,13,verified,LEFD0310
+10000,36 months,10.65,10,MORTGAGE,90000,debt consolidation,New York,11.16,0,59.4,22,0,11,not verified,LEFD0311
+10000,36 months,12.69,2,RENT,35000,debt consolidation,Kentucky,12.03,0,84.6,15,1,11,verified,LEFD0312
+3500,36 months,13.49,7,RENT,56000,debt consolidation,Florida,10.35,0,54.2,37,0,22,not verified,LEFD0313
+9600,36 months,9.91,5,RENT,35000,debt consolidation,North Carolina,16.49,0,79,16,0,15,not verified,LEFD0314
+9875,36 months,7.9,10,MORTGAGE,40000,debt consolidation,New York,24.03,0,63.7,16,0,9,verified,LEFD0315
+21500,60 months,17.58,2,OWN,59000,debt consolidation,Missouri,22.86,0,81.8,16,0,21,verified,LEFD0316
+4800,36 months,7.9,6,RENT,48000,debt consolidation,Florida,13,0,26,13,0,5,verified,LEFD0317
+7800,36 months,6.03,10,OWN,85000,major purchase,Nevada,0.78,0,6.2,12,0,17,not verified,LEFD0318
+20000,36 months,14.27,10,MORTGAGE,70000,credit card,Texas,6.21,0,89,14,0,10,verified,LEFD0319
+9750,36 months,7.51,4,RENT,35000,debt consolidation,Hawaii,29.04,0,51.7,19,1,15,not verified,LEFD0320
+18000,60 months,15.96,6,MORTGAGE,91000,credit card,Virginia,23.41,0,67,38,0,27,verified,LEFD0321
+5000,36 months,6.03,9,MORTGAGE,30000,other,California,16.48,0,25.6,16,0,11,not verified,LEFD0322
+9000,36 months,14.65,4,RENT,45000,debt consolidation,New York,17.01,1,50,51,0,16,verified,LEFD0323
+7200,36 months,7.9,1,RENT,55000,debt consolidation,Florida,11.98,0,46.1,14,0,5,not verified,LEFD0324
+25000,60 months,19.42,10,RENT,60000,credit card,California,20.04,0,94.9,24,1,11,verified,LEFD0325
+25000,36 months,15.27,8,OWN,82000,debt consolidation,California,18.5,0,70.6,23,0,9,verified,LEFD0326
+10000,36 months,15.96,10,RENT,53000,debt consolidation,California,13.09,0,77.2,19,0,12,verified,LEFD0327
+8875,36 months,12.69,5,MORTGAGE,35360,debt consolidation,Pennsylvania,23.11,0,71.1,13,1,6,verified,LEFD0328
+15550,36 months,11.71,10,RENT,54000,debt consolidation,Florida,23.36,0,89.8,16,0,13,verified,LEFD0329
+7500,36 months,12.69,5,RENT,65000,credit card,California,4.41,0,35.5,22,0,4,not verified,LEFD0330
+8875,36 months,8.9,6,OWN,28800,debt consolidation,California,24.29,0,69.5,23,0,13,not verified,LEFD0331
+4500,36 months,17.27,1,RENT,42000,credit card,Ohio,4.34,0,68.5,3,0,3,not verified,LEFD0332
+5800,36 months,12.42,3,RENT,36000,debt consolidation,Texas,21.67,0,66.9,20,0,11,not verified,LEFD0333
+10000,36 months,11.71,2,RENT,40000,debt consolidation,New Jersey,22.26,0,47.4,17,0,13,not verified,LEFD0334
+10000,36 months,9.91,4,RENT,50000,credit card,Georgia,19.06,0,88.6,28,0,17,not verified,LEFD0335
+14000,36 months,11.71,1,RENT,52000,credit card,California,12.97,0,57.9,8,0,6,not verified,LEFD0336
+12000,36 months,8.9,3,RENT,32000,debt consolidation,Oregon,6.75,0,59.2,12,1,6,verified,LEFD0337
+24000,36 months,7.9,6,OWN,75000,debt consolidation,Florida,10.58,0,45,22,0,25,verified,LEFD0338
+14000,36 months,14.27,0,RENT,80000,credit card,New York,3.3,0,59,14,0,6,not verified,LEFD0339
+12000,36 months,8.9,7,MORTGAGE,40246,credit card,Arizona,17.08,0,72.2,24,0,12,verified,LEFD0340
+15000,60 months,12.69,3,OWN,30000,debt consolidation,New Jersey,24.76,0,65.7,17,1,7,verified,LEFD0341
+8050,36 months,12.69,1,RENT,36000,debt consolidation,Washington,14.8,0,81.3,7,1,4,verified,LEFD0342
+5600,36 months,10.65,6,RENT,60000,debt consolidation,California,16.36,1,12.4,25,0,12,not verified,LEFD0343
+7500,36 months,9.91,3,RENT,31200,credit card,California,12.35,0,57.3,18,0,6,not verified,LEFD0344
+7000,36 months,11.71,10,RENT,90000,credit card,Maryland,12.19,0,93.8,25,0,13,verified,LEFD0345
+5400,36 months,7.9,4,RENT,40000,debt consolidation,Missouri,10.89,0,77,15,0,18,not verified,LEFD0346
+16000,36 months,12.42,1,RENT,90000,credit card,Pennsylvania,13.67,0,65.2,19,0,9,verified,LEFD0347
+35000,60 months,12.42,9,MORTGAGE,105000,home improvement,Texas,16.53,0,25,38,0,21,verified,LEFD0348
+6000,60 months,7.9,0,RENT,30084,debt consolidation,Kentucky,1.68,0,10,15,1,17,verified,LEFD0349
+9800,36 months,16.29,4,RENT,67000,credit card,California,21.01,0,44.9,18,0,19,not verified,LEFD0350
+5000,36 months,6.62,1,RENT,276000,debt consolidation,Florida,1.82,0,56,18,0,7,verified,LEFD0351
+9900,36 months,11.71,6,RENT,26400,debt consolidation,Ohio,14.09,0,88.9,11,0,17,verified,LEFD0352
+4000,36 months,11.71,,RENT,24000,home improvement,Florida,7.5,1,54.9,6,0,6,verified,LEFD0353
+15000,36 months,11.71,3,MORTGAGE,68400,debt consolidation,Florida,5.7,0,82.2,9,0,11,verified,LEFD0354
+6250,36 months,15.96,1,RENT,29120,debt consolidation,Wisconsin,20.85,0,88.8,12,0,12,not verified,LEFD0355
+6400,36 months,16.29,0,RENT,29120,debt consolidation,Wisconsin,17.97,0,94.6,14,0,10,not verified,LEFD0356
+12000,36 months,15.27,4,MORTGAGE,54000,debt consolidation,New Jersey,17.07,0,61,34,0,20,not verified,LEFD0357
+15000,36 months,8.9,5,MORTGAGE,30000,debt consolidation,Arkansas,6.48,0,25.2,10,0,11,verified,LEFD0358
+6500,36 months,14.27,4,MORTGAGE,30000,credit card,Washington,10.12,0,81.5,9,0,8,not verified,LEFD0359
+8000,36 months,15.96,10,RENT,50000,credit card,Connecticut,16.34,1,81.2,18,0,12,not verified,LEFD0360
+15000,36 months,14.65,10,MORTGAGE,100500,credit card,New Jersey,14.56,0,74.3,14,0,9,verified,LEFD0361
+10200,36 months,14.27,3,RENT,40000,debt consolidation,California,16.53,0,80.6,10,0,4,not verified,LEFD0362
+9000,36 months,12.42,5,MORTGAGE,47000,credit card,Florida,19.1,0,47.2,17,0,17,not verified,LEFD0363
+6500,36 months,16.29,3,MORTGAGE,68000,debt consolidation,Florida,21.85,0,92.4,17,0,15,not verified,LEFD0364
+23000,60 months,21.28,8,MORTGAGE,95000,debt consolidation,Michigan,8.94,0,99.3,35,0,10,verified,LEFD0365
+2000,36 months,7.9,4,RENT,39600,credit card,California,5.09,0,79.2,13,0,13,not verified,LEFD0366
+8000,36 months,13.49,3,OWN,30000,debt consolidation,California,14.48,0,44.1,21,0,9,verified,LEFD0367
+8875,36 months,7.51,1,RENT,30000,debt consolidation,Kentucky,28.4,0,83.7,27,0,28,verified,LEFD0368
+1500,36 months,18.64,0,RENT,17000,other,Ohio,4.59,0,99.8,15,1,4,verified,LEFD0369
+8000,36 months,12.42,3,RENT,42000,debt consolidation,Pennsylvania,20.26,0,85.4,11,0,9,not verified,LEFD0370
+20000,60 months,14.65,10,RENT,75000,debt consolidation,California,16.51,0,74.9,16,1,16,verified,LEFD0371
+6500,36 months,11.71,4,RENT,42000,credit card,Massachusetts,6.26,0,63.8,11,0,4,not verified,LEFD0372
+9600,36 months,13.49,3,MORTGAGE,27000,debt consolidation,New York,10.22,0,84.9,27,0,10,verified,LEFD0373
+10000,36 months,7.9,5,MORTGAGE,46000,home improvement,Washington,10.46,0,50.1,17,0,10,not verified,LEFD0374
+15000,36 months,12.42,10,MORTGAGE,80000,debt consolidation,North Carolina,5.61,0,53.7,17,0,11,verified,LEFD0375
+9000,36 months,6.62,3,MORTGAGE,45000,debt consolidation,California,22.05,0,44,17,0,14,not verified,LEFD0376
+10000,36 months,7.9,2,RENT,72500,credit card,New York,27.92,0,69.1,23,0,11,verified,LEFD0377
+1000,36 months,14.65,,RENT,18408,major purchase,New Jersey,6,0,83.7,8,1,18,not verified,LEFD0378
+14000,36 months,7.9,2,RENT,30000,debt consolidation,Texas,15.2,0,62.3,28,0,11,verified,LEFD0379
+8500,36 months,14.27,9,RENT,50000,debt consolidation,Pennsylvania,8.5,0,61.5,27,1,7,verified,LEFD0380
+4500,36 months,15.96,5,MORTGAGE,65000,other,New York,14.66,0,76.6,34,0,9,not verified,LEFD0381
+3000,36 months,7.51,10,MORTGAGE,65000,major purchase,Texas,27.91,0,56,19,0,13,not verified,LEFD0382
+10000,36 months,9.91,4,MORTGAGE,120000,home improvement,New Jersey,7.98,0,68.1,35,0,14,verified,LEFD0383
+33425,60 months,13.49,2,MORTGAGE,75000,debt consolidation,New York,25.71,0,50.5,43,1,33,verified,LEFD0384
+7200,36 months,15.27,4,RENT,54990,debt consolidation,Texas,20.95,0,96,24,0,10,verified,LEFD0385
+18000,60 months,11.71,0,RENT,40000,debt consolidation,Arizona,18.18,0,68.8,12,1,12,verified,LEFD0386
+23000,36 months,7.9,2,MORTGAGE,137000,debt consolidation,Texas,8.13,0,60.8,37,0,20,verified,LEFD0387
+20000,60 months,16.77,10,RENT,60000,debt consolidation,California,9.46,0,41,30,1,16,verified,LEFD0388
+7000,36 months,8.9,1,RENT,46000,credit card,Virginia,7.9,0,76.5,18,0,9,verified,LEFD0389
+21000,36 months,12.69,8,MORTGAGE,135000,debt consolidation,Ohio,8.52,0,63,24,0,11,verified,LEFD0390
+8250,36 months,7.51,,MORTGAGE,31500,debt consolidation,Maryland,17.87,0,10.4,37,0,30,verified,LEFD0391
+13000,36 months,9.91,10,RENT,65000,credit card,California,8.82,0,75.9,18,0,10,verified,LEFD0392
+18000,36 months,6.62,2,MORTGAGE,78000,debt consolidation,Texas,6.35,0,25,13,0,19,not verified,LEFD0393
+7200,36 months,6.03,5,MORTGAGE,60000,other,Arizona,2.54,0,6,20,0,15,not verified,LEFD0394
+16500,36 months,8.9,10,RENT,48000,credit card,Utah,13.1,0,87.1,25,0,11,not verified,LEFD0395
+8125,36 months,7.9,0,RENT,25000,debt consolidation,Illinois,24.34,0,63.6,21,0,12,not verified,LEFD0396
+18800,36 months,7.51,3,MORTGAGE,82000,debt consolidation,California,13.76,1,17.3,24,0,23,verified,LEFD0397
+26800,36 months,19.03,10,MORTGAGE,82000,credit card,California,21.59,0,98,31,0,30,verified,LEFD0398
+19200,36 months,7.9,5,MORTGAGE,42000,debt consolidation,Oklahoma,19.66,0,72.2,24,0,11,verified,LEFD0399
+12875,60 months,17.58,3,RENT,27600,debt consolidation,California,18.7,0,86.1,7,0,10,verified,LEFD0400
+4000,36 months,12.42,5,MORTGAGE,38000,credit card,Ohio,19.64,0,52.7,16,0,9,not verified,LEFD0401
+4000,36 months,16.29,4,RENT,35000,debt consolidation,California,9.22,0,83.5,13,0,8,not verified,LEFD0402
+12000,36 months,9.91,10,OWN,33000,credit card,California,18.8,0,74.9,10,0,21,not verified,LEFD0403
+2625,36 months,11.71,10,MORTGAGE,52800,medical,Nevada,14.52,0,65.2,21,0,8,not verified,LEFD0404
+7000,36 months,9.91,10,RENT,73882,debt consolidation,Pennsylvania,11.45,0,38.1,10,0,18,not verified,LEFD0405
+11300,36 months,12.69,7,MORTGAGE,36000,credit card,Florida,16.33,0,74.7,22,0,13,not verified,LEFD0406
+4000,36 months,9.91,10,MORTGAGE,130000,debt consolidation,California,10.05,0,85,22,0,14,verified,LEFD0407
+8000,36 months,6.03,10,MORTGAGE,57200,debt consolidation,South Carolina,4.72,0,6.8,47,0,18,not verified,LEFD0408
+14400,36 months,18.25,5,RENT,51871,debt consolidation,Rhode Island,7.82,0,79.3,9,1,5,verified,LEFD0409
+4375,36 months,12.42,2,OWN,15000,debt consolidation,California,13.92,0,74.9,5,0,5,verified,LEFD0410
+4100,36 months,7.51,9,MORTGAGE,70197,credit card,Louisiana,6.58,0,72.1,12,0,10,not verified,LEFD0411
+6000,36 months,8.9,7,RENT,47000,other,Ohio,14.43,0,31.4,14,0,16,verified,LEFD0412
+4000,36 months,6.62,6,MORTGAGE,120000,home improvement,North Carolina,3.89,0,24.4,31,0,14,verified,LEFD0413
+3000,36 months,10.65,10,MORTGAGE,86004,other,New Jersey,13.37,0,64.6,35,1,14,not verified,LEFD0414
+5400,36 months,12.69,10,MORTGAGE,75000,car,Texas,8.8,0,68.7,33,0,19,not verified,LEFD0415
+15000,36 months,16.29,1,RENT,110000,small business,Texas,21.99,2,84.1,24,1,13,verified,LEFD0416
+20000,60 months,18.64,3,MORTGAGE,80000,debt consolidation,Arizona,23.47,0,88.5,13,0,10,verified,LEFD0417
+10400,36 months,12.69,4,RENT,44000,credit card,California,19.91,0,90.1,21,0,9,verified,LEFD0418
+4500,60 months,17.58,7,MORTGAGE,51600,debt consolidation,Washington,22.63,0,67.7,13,0,7,verified,LEFD0419
+11500,36 months,12.42,0,RENT,38500,credit card,DC,13.06,0,89.6,15,0,7,verified,LEFD0420
+10000,36 months,6.62,4,RENT,75000,home improvement,Florida,24.85,0,5.9,40,0,12,verified,LEFD0421
+18225,60 months,13.49,10,MORTGAGE,37320,debt consolidation,Georgia,20.8,0,74.4,12,0,10,verified,LEFD0422
+3600,36 months,8.9,10,RENT,55000,debt consolidation,New York,5.48,0,65.9,18,0,9,not verified,LEFD0423
+18500,60 months,11.71,2,RENT,100000,major purchase,California,0.72,0,10.4,10,0,8,verified,LEFD0424
+16800,60 months,18.25,10,MORTGAGE,70000,credit card,Colorado,21.5,0,38.4,18,0,12,verified,LEFD0425
+10000,36 months,17.27,8,RENT,68000,debt consolidation,Montana,17.15,0,92.5,16,1,9,not verified,LEFD0426
+15000,36 months,18.25,10,MORTGAGE,66000,debt consolidation,California,8.49,2,89.1,28,0,23,not verified,LEFD0427
+8000,36 months,11.71,8,RENT,85000,major purchase,New Jersey,10.22,0,35.7,29,0,9,verified,LEFD0428
+25000,60 months,16.77,1,RENT,83004,debt consolidation,California,13.66,0,82.9,19,0,14,verified,LEFD0429
+16000,36 months,7.9,1,RENT,51000,debt consolidation,Arizona,24.66,0,81,28,1,19,verified,LEFD0430
+8000,36 months,10.65,2,RENT,55000,debt consolidation,California,11.56,0,15.7,10,0,12,verified,LEFD0431
+7200,36 months,7.51,10,MORTGAGE,47000,debt consolidation,Virginia,19.74,0,83.5,32,0,13,verified,LEFD0432
+12000,36 months,7.51,4,RENT,86000,debt consolidation,California,13.3,0,51.8,25,0,9,verified,LEFD0433
+2200,36 months,15.27,10,OWN,48000,debt consolidation,Texas,5.47,0,83.7,7,1,11,not verified,LEFD0434
+28000,60 months,12.42,4,MORTGAGE,85000,debt consolidation,Pennsylvania,15.87,0,58.7,31,0,16,verified,LEFD0435
+6000,36 months,7.51,2,MORTGAGE,50000,debt consolidation,Arkansas,23.86,0,62.4,23,0,11,verified,LEFD0436
+8000,60 months,8.9,1,RENT,51204,debt consolidation,New York,25.12,0,37.6,40,1,24,not verified,LEFD0437
+14400,36 months,15.27,2,RENT,42996,debt consolidation,New York,0.98,0,7.7,3,0,3,not verified,LEFD0438
+20000,60 months,19.03,5,RENT,60000,credit card,California,18.06,0,97.4,28,0,17,verified,LEFD0439
+14050,36 months,8.9,3,MORTGAGE,120000,major purchase,New York,2.21,0,18.8,13,0,5,verified,LEFD0440
+6000,36 months,13.49,10,OWN,62691,major purchase,Alabama,3.16,0,94.4,19,0,17,not verified,LEFD0441
+35000,60 months,20.3,3,OWN,85000,debt consolidation,Florida,16.39,0,76.5,40,1,27,verified,LEFD0442
+10525,36 months,7.9,4,RENT,49668,debt consolidation,California,7.27,0,68.9,9,0,9,verified,LEFD0443
+7200,36 months,15.96,2,RENT,30000,debt consolidation,New Jersey,5.2,0,94.2,7,0,12,verified,LEFD0444
+18500,60 months,10.65,10,OWN,40000,debt consolidation,Hawaii,26.34,0,0.1,27,0,15,verified,LEFD0445
+12000,36 months,13.49,10,MORTGAGE,40000,debt consolidation,Arkansas,16.2,0,74.4,27,0,15,verified,LEFD0446
+12000,36 months,11.71,5,MORTGAGE,100000,credit card,Illinois,6.58,0,79.6,11,0,7,not verified,LEFD0447
+3000,36 months,11.71,2,RENT,56312,other,Virginia,16.03,0,83.4,13,0,9,not verified,LEFD0448
+9500,36 months,16.29,10,RENT,54011,debt consolidation,California,18.51,0,79.5,40,0,12,verified,LEFD0449
+19775,36 months,12.42,2,RENT,49110.32,debt consolidation,California,17.57,0,61.1,15,0,13,verified,LEFD0450
+12000,60 months,14.65,0,RENT,75000,credit card,Hawaii,16.13,0,89.4,28,1,11,verified,LEFD0451
+28000,60 months,14.27,7,MORTGAGE,95000,debt consolidation,Washington,9.46,0,68.1,29,0,11,verified,LEFD0452
+30000,36 months,12.42,2,RENT,80000,debt consolidation,Wisconsin,22.23,0,94,33,0,11,verified,LEFD0453
+16000,36 months,10.65,9,MORTGAGE,55000,debt consolidation,California,13.33,0,89.7,19,0,9,verified,LEFD0454
+14500,36 months,14.65,8,RENT,90000,credit card,Maryland,5.24,0,46.7,28,0,10,verified,LEFD0455
+11700,60 months,14.65,3,RENT,68500,credit card,Virginia,18.17,0,39.8,21,0,6,verified,LEFD0456
+4150,36 months,10.65,4,RENT,100000,debt consolidation,California,1.99,0,25,8,0,13,not verified,LEFD0457
+24000,36 months,16.77,6,RENT,70000,credit card,California,12.57,0,91.2,13,0,7,verified,LEFD0458
+21250,36 months,12.42,5,RENT,37000,other,New Jersey,14.27,0,69.3,21,1,11,verified,LEFD0459
+10000,36 months,14.27,10,OWN,75000,debt consolidation,Arkansas,13.46,0,71.3,18,0,16,verified,LEFD0460
+25000,60 months,18.25,0,MORTGAGE,75000,debt consolidation,California,10.58,0,72,29,0,14,verified,LEFD0461
+4000,36 months,15.96,6,RENT,39000,debt consolidation,Nevada,21.91,0,93.5,15,0,5,verified,LEFD0462
+15000,36 months,11.71,0,RENT,60000,debt consolidation,New York,8.86,0,70.8,15,0,9,not verified,LEFD0463
+15000,60 months,17.58,3,MORTGAGE,110000,home improvement,Utah,12.36,0,81.2,10,0,6,verified,LEFD0464
+3600,36 months,15.96,3,RENT,40000,moving,New York,12.78,0,52.2,6,0,3,verified,LEFD0465
+6000,60 months,19.03,5,OWN,31000,debt consolidation,California,20.13,0,93,14,0,8,verified,LEFD0466
+15000,36 months,15.27,10,RENT,60000,debt consolidation,New York,10.72,0,75.2,18,1,9,verified,LEFD0467
+12000,60 months,18.25,3,RENT,43000,credit card,California,15.24,0,45.4,14,0,5,verified,LEFD0468
+12375,36 months,7.51,6,RENT,42000,debt consolidation,Maryland,28.06,0,52.1,34,0,10,not verified,LEFD0469
+4000,36 months,12.69,6,RENT,30000,home improvement,Florida,17.6,0,5.5,20,1,15,not verified,LEFD0470
+13000,36 months,10.65,10,MORTGAGE,50000,debt consolidation,Florida,20.11,0,40.6,15,0,13,not verified,LEFD0471
+5000,36 months,6.62,1,MORTGAGE,39396,home improvement,Georgia,8.16,0,18.5,30,0,11,verified,LEFD0472
+5000,36 months,15.96,7,OWN,98000,credit card,California,19.63,0,53.3,14,0,9,verified,LEFD0473
+26000,36 months,11.71,10,RENT,62500,credit card,Oklahoma,16.55,0,94.8,16,0,11,verified,LEFD0474
+4000,60 months,19.91,10,RENT,45000,house,Pennsylvania,15.2,0,22.4,11,1,15,verified,LEFD0475
+8000,36 months,7.9,10,RENT,32400,debt consolidation,California,7.56,0,34.1,15,0,10,not verified,LEFD0476
+1700,36 months,7.9,,MORTGAGE,37800,home improvement,Colorado,27,0,91.2,27,1,32,not verified,LEFD0477
+16000,36 months,9.91,10,RENT,50000,debt consolidation,Pennsylvania,15.1,0,66.2,26,0,18,not verified,LEFD0478
+20000,60 months,9.91,10,MORTGAGE,114996,debt consolidation,New York,11.19,0,15.4,20,0,11,verified,LEFD0479
+12000,36 months,14.65,6,RENT,54400,debt consolidation,Washington,13.81,0,60.2,33,1,13,verified,LEFD0480
+7000,36 months,11.71,7,MORTGAGE,72800,credit card,Maryland,24.64,0,84.1,33,0,11,verified,LEFD0481
+8000,60 months,20.3,1,RENT,42500,debt consolidation,Georgia,14.23,0,95,24,1,7,verified,LEFD0482
+13000,36 months,16.29,10,RENT,28000,debt consolidation,North Carolina,12.9,0,93.3,8,1,10,verified,LEFD0483
+20000,60 months,21.28,2,OWN,120000,debt consolidation,Minnesota,16.72,0,75.5,43,0,13,verified,LEFD0484
+18000,36 months,13.49,8,MORTGAGE,96000,debt consolidation,Connecticut,16.4,0,46.6,37,0,24,verified,LEFD0485
+10000,36 months,16.29,3,RENT,83200,credit card,Washington,17.03,0,92,15,0,6,verified,LEFD0486
+22250,60 months,15.27,8,RENT,45000,debt consolidation,Missouri,23.07,0,77.7,23,0,12,verified,LEFD0487
+24000,60 months,17.58,5,RENT,68809,debt consolidation,Florida,21.29,0,25.3,20,1,6,verified,LEFD0488
+11200,36 months,12.42,3,RENT,75000,car,California,22.88,0,74.4,13,1,15,not verified,LEFD0489
+7000,36 months,10.65,3,RENT,52000,other,New York,18.16,0,94.8,13,0,8,not verified,LEFD0490
+8000,36 months,6.03,6,RENT,57600,house,California,11.52,0,12.4,12,0,40,verified,LEFD0491
+22500,60 months,16.77,4,RENT,48500,credit card,California,10.91,0,84.5,12,0,19,verified,LEFD0492
+12000,36 months,17.27,2,RENT,95000,debt consolidation,Georgia,11.1,0,88.5,19,0,5,not verified,LEFD0493
+22000,36 months,14.65,0,RENT,58000,debt consolidation,Illinois,12.1,0,92.3,28,0,8,verified,LEFD0494
+6200,36 months,10.65,10,MORTGAGE,24000,credit card,Alaska,19.95,0,55.2,11,0,10,not verified,LEFD0495
+15900,36 months,9.91,9,MORTGAGE,58000,debt consolidation,Virginia,21.72,0,64.5,15,0,11,not verified,LEFD0496
+5000,36 months,8.9,,MORTGAGE,70000,other,California,16.17,1,53,32,0,28,verified,LEFD0497
+16000,36 months,6.62,3,MORTGAGE,104000,other,Massachusetts,2.78,0,3.2,24,0,15,not verified,LEFD0498
