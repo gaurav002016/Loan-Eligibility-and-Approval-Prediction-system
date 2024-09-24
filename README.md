@@ -16,7 +16,7 @@ This project is designed to predict the eligibility and approval status of loan 
 4. **Prediction**: Make predictions for new loan applications.
 5. **Evaluation**: Measure model performance using accuracy, precision, recall, and other metrics.
 6. **New Data Entry and Fraud Detection**:
-  - New Data Entry: The system creates a new_entry.csv file for each new data submission, generating a unique ID for every user. If a user ID already exists, the system reuses it to prevent duplication.
+-- New Data Entry: The system creates a new_entry.csv file for each new data submission, generating a unique ID for every user. If a user ID already exists, the system reuses it to prevent duplication.
   - Fraud Detection: A separate fraud_entry.csv file is created to store data flagged as fraudulent. The system compares new entries against the dataset to detect inconsistencies and suspicious data.
   - Fraudulent Data Requirements: The system automatically determines the criteria for identifying fraudulent data by evaluating entries against pre-defined rules.
 
